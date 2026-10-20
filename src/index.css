@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+  --color-spread-roxo: #7030A0;
+  --color-spread-roxo-escuro: #4B1D6E;
+  --color-spread-laranja: #F28C28;
+  --font-sans: "Montserrat", "Segoe UI", sans-serif;
+}
